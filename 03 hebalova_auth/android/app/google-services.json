@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354209034785",
+    "project_id": "herbalova-auth-811f1",
+    "storage_bucket": "herbalova-auth-811f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354209034785:android:706b5c1e253801428c6960",
+        "android_client_info": {
+          "package_name": "com.example.hebalova_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354209034785-959dqhqfd9piosmkqfkmlniq6rak5shn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgjig-MuI97NiNV-6qdjQo31SeWPfoLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354209034785-959dqhqfd9piosmkqfkmlniq6rak5shn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
