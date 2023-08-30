@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">591966142614-a2adtg5c62bact9nq4sg6a6qc7et2phv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">591966142614</string>
+    <string name="google_api_key" translatable="false">AIzaSyBv13bQSZ9tU3xQDdX1T472hXuwmRe5FN4</string>
+    <string name="google_app_id" translatable="false">1:591966142614:android:5850d71d009875ac14c2b7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBv13bQSZ9tU3xQDdX1T472hXuwmRe5FN4</string>
+    <string name="google_storage_bucket" translatable="false">bwa-course-hotelio.appspot.com</string>
+    <string name="project_id" translatable="false">bwa-course-hotelio</string>
+</resources>

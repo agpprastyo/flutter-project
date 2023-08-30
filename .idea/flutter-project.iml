@@ -6,6 +6,12 @@
       <excludeFolder url="file://$MODULE_DIR$/01 Calculator-App/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/01 Calculator-App/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/01 Calculator-App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02 to_do_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02 to_do_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02 to_do_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03 hebalova_auth/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03 hebalova_auth/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03 hebalova_auth/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
